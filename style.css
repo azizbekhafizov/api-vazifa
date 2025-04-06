@@ -1,0 +1,24 @@
+table {
+    width: 100%;
+}
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+th {
+    background-color: #f4f4f4;
+}
+.btn-edit {
+    background-color: orange;
+    border: none;
+    padding: 5px 10px;
+    color: white;
+    cursor: pointer;
+}
+.btn-delete {
+    background-color: red;
+    border: none;
+    padding: 5px 10px;
+    color: white;
+    cursor: pointer;
+}
